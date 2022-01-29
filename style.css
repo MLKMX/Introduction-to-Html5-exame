@@ -1,0 +1,31 @@
+h1{
+	background: lightblue;
+	font-family: times new roman,times,serif;
+	text-decoration: underline overline orange;
+}
+
+h2 {
+	background: lightsteelblue;
+	font-family: arial,helvetica,sans-serif;
+	text-decoration: underline orange;
+
+}
+summary{
+	font-family: arial,helvetica,sans-serif;
+	background: lightblue;
+
+}
+
+nav a{
+	color: green;
+}
+
+img{
+      border: 3px solid black;
+      
+}
+footer{
+	text-decoration: underline overline;
+	text-align: left;
+
+}
